@@ -12,16 +12,6 @@ sections:
         background: /images/hero-banner.png
         button: Contact Us
         url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
     - infopic:
         title: Integrity
         subtitle: Core Values
@@ -31,9 +21,9 @@ sections:
         image: /images/integrity.png
         alt: Members of the Ministry of ABC shaking hands
     - infopic:
-        title: Professionalism
-        subtitle: Core Values
-        description: We strive to deliver work of the highest calibre
+        title: Benefits
+        subtitle: What it means to participating businesses
+        description: <b>Faster payment</b><p> This initiative seeks to reduce manual processing work across the procure to pay process.</p><b>SME digitalisation</b><p>Bring businesses online and digitalise processes</p>
         button: Learn More
         url: /core-values/
         image: /images/professionalism.png
