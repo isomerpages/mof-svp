@@ -22,6 +22,22 @@ sections:
             - title: Page A
               description: Page A is important too
               url: /privacy/
+    - infopic:
+        title: Integrity
+        subtitle: Core Values
+        description: Integrity drives everything we do at the Ministry of ABC<BR>Can there be a second line
+        button: Learn More
+        url: /core-values/
+        image: /images/integrity.png
+        alt: Members of the Ministry of ABC shaking hands
+    - infopic:
+        title: Professionalism
+        subtitle: Core Values
+        description: We strive to deliver work of the highest calibre
+        button: Learn More
+        url: /core-values/
+        image: /images/professionalism.png
+        alt: Members of the Ministry of ABC in suits
     - infobar:
         title: Infobar title
         subtitle: Subtitle
