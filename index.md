@@ -14,7 +14,8 @@ sections:
         url: /contact-us/
         key_highlights:
             - title: Highlight A
-              description: Important highlight A is important
+              description: Important highlight A is important<BR>
+              Can I have a second line?
               url: https://google.com
             - title: Highlight B
               description: Important highlight B is equally important
