@@ -23,7 +23,7 @@ sections:
     - infopic:
         title: What it means to participating businesses
         subtitle: Benefits
-        description: <b>Faster payment</b><p> This initiative seeks to reduce manual processing work across the procure to pay process.</p><b>SME digitalisation</b><p>Bring businesses online and digitalise processes</p>
+        description: <p><b>Faster payment</b><BR>This initiative seeks to reduce manual processing work across the procure to pay process.</p><p><b>SME digitalisation</b><BR>Bring businesses online and digitalise processes</p>
         button: Learn More
         url: /core-values/
         image: /images/professionalism.png
