@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: E-commerce partnership
-        subtitle: Partnering businesses to facilitate public officers to make small value purchases off e-commerce platforms
+        subtitle: Partnering with businesses to facilitate public officers to make small value purchases off e-commerce platforms
         background: /images/hero-banner.png
     - infopic:
         title: About this initiative
