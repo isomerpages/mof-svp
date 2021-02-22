@@ -7,8 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
+        title: A catch-all phrase
+        subtitle: New model...
         background: /images/hero-banner.png
         button: Contact Us
         url: /contact-us/
@@ -23,7 +23,7 @@ sections:
     - infopic:
         title: What it means to participating businesses
         subtitle: Benefits
-        description: <p><b>Faster payment</b><BR>This initiative seeks to reduce manual processing work across the procure to pay process.</p><p><b>SME digitalisation</b><BR>Bring businesses online and digitalise processes</p>
+        description: <p><b>Faster payment</b><BR>This initiative seeks to reduce manual processing work across the procure to pay process (e.g. manual reconciliation and manual submission of invoices), and thereby enabling faster payments to our suppliers.</p><p><b>SME digitalisation</b><BR>Through this initiative, businesses (such as SMEs) can start to bring your businesses online and digitalise your processes from order to invoice to payment, and improve productivity.</p><p><b>New opportunities</b><BR>Beyond demand from Government agencies, SMEs are able to gain access to an additional channel to supply to buyers beyond Singapore's shores in the e-commerce space.</p>
         button: Learn More
         url: /core-values/
         image: /images/professionalism.png
