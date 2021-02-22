@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: E-commerce Partnership
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -8,11 +8,11 @@ notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: E-commerce partnership
-        subtitle: Partnering with businesses to facilitate public officers to make small value purchases off e-commerce platforms
+        subtitle: Partnering with businesses to facilitate public officers to make purchases on commercial digital platforms
         background: /images/hero-banner.png
     - infopic:
         title: About this initiative
-        description: <p>New model to enable public officers to make fast and seamless purchases off e-commerce sites through establishing corporate arrangements with businesses.</p><br><p>To facilitate this initiative, an intermediate interface ('middleware') has been developed to connect Government's cororate systems with e-commerce sites.</p>
+        description: <p>The E-commerce Partnership initiative enables public officers to make efficient and seamless purchases on e-commerce sites through the use of technology.</p><br><p>To facilitate this initiative, an intermediate interface ('middleware') has been developed to connect Government's corporate systems with e-commerce sites.</p>
         image: /images/integrity.png
         alt: Members of the Ministry of ABC shaking hands
     - infopic:
