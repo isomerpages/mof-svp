@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: What is this initiative about?
+        title: About this initiative
         subtitle: New model to enable public officers to make fast and seamless purchases off e-commerce sites through establishing corporate arrangements with businesses.<BR>To facilitate this initiative, an intermediate interface ('middleware') has been developed to connect Government's cororate systems with e-commerce sites.
         background: /images/hero-banner.png
         button: Find out more
