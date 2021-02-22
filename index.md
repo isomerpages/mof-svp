@@ -13,11 +13,8 @@ sections:
         button: Find out more
         url: /faq/
     - infopic:
-        title: Integrity
-        subtitle: Core Values
-        description: Integrity drives everything we do at the Ministry of ABC<BR>Can there be a second line
-        button: Learn More
-        url: /core-values/
+        title: About this initiative
+        description: <p>New model to enable public officers to make fast and seamless purchases off e-commerce sites through establishing corporate arrangements with businesses.</p><br><p>To facilitate this initiative, an intermediate interface ('middleware') has been developed to connect Government's cororate systems with e-commerce sites.</p>
         image: /images/integrity.png
         alt: Members of the Ministry of ABC shaking hands
     - infopic:
