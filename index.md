@@ -21,8 +21,8 @@ sections:
         image: /images/integrity.png
         alt: Members of the Ministry of ABC shaking hands
     - infopic:
-        title: Benefits
-        subtitle: What it means to participating businesses
+        title: What it means to participating businesses
+        subtitle: Benefits
         description: <b>Faster payment</b><p> This initiative seeks to reduce manual processing work across the procure to pay process.</p><b>SME digitalisation</b><p>Bring businesses online and digitalise processes</p>
         button: Learn More
         url: /core-values/
