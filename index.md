@@ -7,11 +7,9 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: About this initiative
-        subtitle: New model to enable public officers to make fast and seamless purchases off e-commerce sites through establishing corporate arrangements with businesses.<BR>To facilitate this initiative, an intermediate interface ('middleware') has been developed to connect Government's cororate systems with e-commerce sites.
+        title: E-commerce partnership
+        subtitle: Partnering businesses to facilitate public officers to make small value purchases off e-commerce platforms
         background: /images/hero-banner.png
-        button: Find out more
-        url: /faq/
     - infopic:
         title: About this initiative
         description: <p>New model to enable public officers to make fast and seamless purchases off e-commerce sites through establishing corporate arrangements with businesses.</p><br><p>To facilitate this initiative, an intermediate interface ('middleware') has been developed to connect Government's cororate systems with e-commerce sites.</p>
