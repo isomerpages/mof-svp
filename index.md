@@ -2,11 +2,11 @@
 layout: homepage
 title: E-commerce Partnership
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/logo.svg
 permalink: /
 sections:
     - hero:
-        title: E-commerce partnership
+        title: E-commerce Partnership
         subtitle: Partnering with businesses to facilitate public officers to make purchases on commercial digital platforms
         background: /images/hero-banner.png
     - infopic:
