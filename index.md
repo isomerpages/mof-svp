@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: E-commerce Partnership
-description: Brief site description here
+description: Partnering businesses to facilitate public officers to make small value purchases off commercial digital platforms
 image: /images/logo.svg
 permalink: /
 sections:
@@ -12,7 +12,7 @@ sections:
     - infobar:
         title: About this initiative
         description: The e-commerce partnership initiative enables public officers to make efficient and seamless purchases off e-commerce sites through use of technology.<BR><BR>To facilitate this initiative, an intermediary interface ('middleware') has been developed to connect Government’s corporate systems with e-commerce sites.
-        button: To find out more, read the FAQs
+        button: Find out more
         url: /faq/
     - infopic:
         title: What it means to participating businesses
@@ -20,7 +20,7 @@ sections:
         image: /images/professionalism.png
         alt: Members of the Ministry of ABC in suits
     - infobar:
-        title: Find out more
+        title: Want to find out more?
         button: Read the FAQs
         url: /faq/
 ---
