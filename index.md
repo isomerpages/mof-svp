@@ -20,7 +20,7 @@ sections:
         image: /images/professionalism.png
         alt: Members of the Ministry of ABC in suits
     - infobar:
-        title: Find out more about this initiative
+        title: Find out more
         button: Read the FAQs
         url: /faq/
 ---
