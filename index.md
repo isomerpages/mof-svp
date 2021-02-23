@@ -12,7 +12,7 @@ sections:
     - infobar:
         title: About this initiative
         description: The e-commerce partnership initiative enables public officers to make efficient and seamless purchases off e-commerce sites through use of technology.<BR><BR>To facilitate this initiative, an intermediary interface ('middleware') has been developed to connect Government’s corporate systems with e-commerce sites.
-        button: Read the FAQs
+        button: To find out more, read the FAQs
         url: /faq/
     - infopic:
         title: What it means to participating businesses
