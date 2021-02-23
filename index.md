@@ -10,7 +10,7 @@ sections:
         subtitle: Partnering businesses to facilitate public officers to make small value purchases off commercial digital platforms
         background: /images/hero-banner.png
     - infobar:
-        title: Find out more about this initiative
+        title: About this initiative
         description: Initiative to enable public officers to make efficient and seamless purchases off e-commerce sites through use of technology.<BR><BR>To    facilitate this initiative, an  intermediary interface (“middleware”) has been developed to connect Government’s corporate systems with e-commerce sites.
         button: Read the FAQs
         url: /faq/
