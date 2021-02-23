@@ -1,12 +1,13 @@
 ---
 layout: homepage
-title: Partnering businesses to facilitate public officers to make small value purchases off commercial digital platforms
+title: E-commerce Partnership
+description: Partnering businesses to facilitate public officers to make small value purchases off commercial digital platforms
 image: /images/logo.svg
 permalink: /
 sections:
     - hero:
-        title: E-commerce Partnership
-        subtitle: Partnering businesses to facilitate public officers to make small value purchases off commercial digital platforms
+        title: Partnering businesses to facilitate public officers to make small value purchases off commercial digital platforms
+        subtitle: nil
     - infobar:
         title: About this initiative
         description: The e-commerce partnership initiative enables public officers to make efficient and seamless purchases off e-commerce sites through use of technology.<BR><BR>To facilitate this initiative, an intermediary interface ('middleware') has been developed to connect Government’s corporate systems with e-commerce sites.
