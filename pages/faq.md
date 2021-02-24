@@ -12,7 +12,7 @@ This is an **additional** means for Government to make ad-hoc smaller value purc
 
 It is an application programming interface (API) developed by the Government to interface with businesses’ digital commercial platforms. The 'middleware' is also designed to address Government’s needs (e.g. financial governance and data reconciliation). 
 
-### 3. Do businesses need to login to the “middleware”?
+### 3. Do businesses need to login to the 'middleware'?
 
 There is no need for businesses to login to the 'middleware'. The 'middleware' will interface at the backend with businesses’ commercial digital platform.
 
