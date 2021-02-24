@@ -18,7 +18,7 @@ There is no need for businesses to login to the 'middleware'. The 'middleware' w
 
 ### 4. Is there a need to upload a catalogue, like GeBIZ Mall?
 
-GeBIZ Mall’s model requires businesses to upload catalogues onto the GeBIZ platform. On the other hand, this new model leverages businesses’ own commercial digital platform that is used for online transactions with other businesses or the public, so there is no need to maintain a separate catalogue.
+GeBIZ Mall requires businesses to upload catalogues onto the GeBIZ platform. On the other hand, this initiative leverages businesses’ own commercial digital platform that is used for online transactions with other businesses or the public, so there is no need to maintain a separate catalogue.
 
 ### 5. What is required for businesses to be part of this initiative? 
 Businesses will need to have a commercial digital platform which can support online transactions (i.e. allow buyers to browse listing of products and make purchases of products from the same site). In addition, businesses must be able to meet the technical interfacing requirements, for example to include a feature for buyers to add corporate billing. Finally, businesses will need to agree to the standard terms of use for the 'middleware'. 
