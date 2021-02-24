@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: E-commerce Partnership
-description: Partnering businesses to facilitate public officers to make small value purchases off commercial digital platforms
+description: Partnering businesses to enable public officers to make small value purchases on commercial digital platforms
 image: /images/logo.svg
 permalink: /
 sections:
