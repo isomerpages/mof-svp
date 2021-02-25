@@ -1,10 +1,9 @@
-title: Title
+title: E-commerce Partnership
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
 
 # Site colors
 colors:
-  primary-color: '#6031b6'
+  primary-color: '#4372d6'
   secondary-color: '#4372d6'
   media-colors:
     - title: media-color-one
@@ -18,9 +17,9 @@ colors:
     - title: media-color-five
       color: '#00838f'
 
+google_analytics: G-TMP7FTRS5G
 
-
-description: An Isomer site of the Singapore Government
+description: Partnering businesses to enable public officers to make smaller value purchases on commercial digital platforms
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #

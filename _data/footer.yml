@@ -1,10 +1,9 @@
-contact_us: /contact-us/
-show_reach: true
-feedback: 
+show_reach: false
+feedback: https://go.gov.sg/websitefeedback
 faq: /faq/
-social_media:
-    facebook: https://www.facebook.com/YourFBPage
-    twitter: https://www.twitter.com/YourTwitter
-    youtube: https://www.youtube.com/YourYoutube
-    instagram: https://www.instagram.com/your.insta/
-    linkedin: https://www.linkedin.com/company/YourAgency
+copyright_agency: Ministry of Finance
+privacy_policy: https://www.mof.gov.sg/privacy-statement
+terms_of_use: https://www.mof.gov.sg/terms-of-use
+links:
+  - title: Join our mailing list
+    url: https://go.gov.sg/ecompartnermailing
