@@ -4,8 +4,11 @@
 #                                #
 ##################################
 
+
 logo: /images/logo.svg
 
 links:
+  - title: Home
+    url: /
   - title: Faq
     url: /faq/

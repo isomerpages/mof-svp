@@ -24,7 +24,7 @@ GeBIZ Mall requires businesses to upload catalogues onto the GeBIZ platform. On 
 Businesses will need to have a commercial digital platform which can support online transactions (i.e. allow buyers to browse listing of products and make purchases of products from the same site). In addition, businesses must be able to meet the technical interfacing requirements, for example to include a feature for buyers to add corporate billing. Finally, businesses will need to agree to the standard terms of use for the 'middleware'. 
 
 ### 6. How does invoicing work in this initiative? 
-Under this initiative, we do not require businesses to generate any physical/PDF invoices. What is required for payment are structured data that list the order and delivery information for the invoicing period. The intent is to reduce physical processing and raise productivity among buyers and our partnering businesses. 
+Under this initiative, we do not require businesses to generate any physical/PDF invoices. What is required for payment are structured data that list the order and delivery information for the invoicing period. The intent is to reduce physical processing and raise productivity among buyers and businesses. 
 
 Businesses shall only submit these data (through their commercial digital platforms) to the 'middleware' when the order has been completed, i.e. goods have been delivered and delivery has been confirmed. 
 
