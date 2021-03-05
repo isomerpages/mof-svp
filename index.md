@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Government buying from e-commerce sites
-description: Partnering businesses to enable public officers to make smaller value purchases on commercial digital platforms
+description: Enabling public officers to make smaller value purchases on commercial digital platforms
 permalink: /
 sections:
     - hero:
