@@ -60,7 +60,7 @@ To be part of this team, businesses will need to have a commercial digital platf
 
 3.10.	If you are aware of any unauthorised Use of your Client Secret Key and/or Digital Signature Key, you must notify MOF immediately. Despite the foregoing, or anything to the contrary, you are fully responsible for all activities resulting from the usage of your Client Secret Key and/or Digital Signature Key.
 
-**4.	DISCLAIMERS **
+**4.	DISCLAIMERS**
 
 4.1.	The API is provided on an “as is” and “as available” basis. MOF makes no representation or warranty about the API, including any representation or warranty as to the accuracy, completeness, reliability, service levels, continued availability, timeliness, non-infringement, title, quality or fitness for any particular purpose of the API to the fullest extent permitted by the law. 
 
