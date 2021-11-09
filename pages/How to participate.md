@@ -233,4 +233,3 @@ To be part of this team, businesses will need to have a commercial digital platf
 5.	The payment terms set out in paragraph 3 of this Appendix 1 shall be deemed to be incorporated into the terms and conditions governing the Transactions. For the avoidance of doubt, in the event of any inconsistency between the terms set out in paragraph 3 of this Appendix 1 and any term and condition governing the Transactions, the terms set out in paragraph 3 of this Appendix 1 shall prevail to the extent of the inconsistency. 
 
 ### Interested parties can [join our mailing list](https://go.gov.sg/ecompartnermailing) to receive future updates.
-
