@@ -15,6 +15,7 @@ sections:
     - infopic:
         title: What it means to participating businesses
         description: <p><b>Faster payment</b><BR>This initiative seeks to reduce manual processing work across the procure-to-pay process (e.g. manual reconciliation and manual submission of invoices), and thereby enabling faster payments to our suppliers.</p><BR><p><b>SME digitalisation</b><BR>This initiative provides added incentive for SME vendors to bring businesses online and digitalise processes from order to invoice to payment, and improve productivity.</p><BR><p><b>New opportunities</b><br>Through this digitalisation, SMEs will be better equipped to supply to buyers beyond Singapore’s shores in the e-commerce space.</p><br><p>We welcome you to start the journey with us.</p>
+    <p><a href="https://www.quickbuy.gov.sg/how-to-participate">How to participate →</a></p>
         image: /images/benefits-1.svg
         alt: What it means to participating businesses
     - infobar:
