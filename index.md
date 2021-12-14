@@ -6,7 +6,7 @@ description: Enabling public officers to make smaller value purchases on
 permalink: /
 sections:
   - hero:
-      title: Government buying from e-commerce sites
+      title: QuickBuy@SGov
       background: /images/header-img3.png
   - infobar:
       title: About this initiative
@@ -39,5 +39,3 @@ sections:
       button: Read the FAQs
       url: /faq/
 ---
-
-
