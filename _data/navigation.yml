@@ -1,12 +1,4 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-
-logo: /images/logo.svg
-
+logo: /images/MOF_QuickBuy_Logo_RGB.png
 links:
   - title: Home
     url: /
