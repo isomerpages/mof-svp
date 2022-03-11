@@ -32,7 +32,7 @@ sections:
         href="/how-to-participate/" class="bp-sec-button"><div><span>How to
         participate</span><i class="sgds-icon sgds-icon-arrow-right is-size-4"
         aria-hidden="true"></i></div></a>
-      image: <img src="/images/QuickBuy-page1-infographic.png" alt="What it means to participating businesses" style="max-width: 400px;">
+      image: /images/QuickBuy-page1-infographic.png
       alt: What it means to participating businesses
   - infobar:
       title: Want to find out more?
