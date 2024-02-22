@@ -10,7 +10,7 @@ sections:
       background: /images/QuickBuy-page1-web-banner.png
   - infobar:
       title: About this initiative
-      description: <BR><video max-width="500" max-height="375" controls> <source src="https://mof-svp-staging.netlify.app/images/Quickbuy@Sgov-final.m4v" type="video/mp4"><source src="movie.ogg" type="video/ogg">The video cannot be viewed in your browser</video><BR><BR>QuickBuy@SGov enables public officers to make efficient and
+      description: <BR><video max-width="500" max-height="375" controls> <source src="/images/Quickbuy@Sgov-final.m4v" type="video/mp4"><source src="movie.ogg" type="video/ogg">The video cannot be viewed in your browser</video><BR><BR>QuickBuy@SGov enables public officers to make efficient and
         seamless smaller value purchases off commercial digital  platforms
         through use of technology.<BR><BR>To facilitate this initiative, an
         intermediary interface ('middleware') has been developed to connect
