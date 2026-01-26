@@ -1,6 +1,6 @@
 ---
 title: How to participate
-permalink: /how-to-participate
+permalink: /how-to-participate/
 description: How to participate in QuickBuy@SGov
 ---
 <img src="/images/QuickBuy-page2.png" alt="How to participate in QuickBuy@SGov">
