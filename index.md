@@ -1,0 +1,41 @@
+---
+layout: homepage
+title: QuickBuy@SGov
+description: Enabling public officers to make smaller value purchases on
+  commercial digital platforms
+permalink: /
+sections:
+  - hero:
+      title: QuickBuy@SGov
+      background: /images/quickbuy-page1-web-banner.png
+  - infobar:
+      title: About this initiative
+      description: <BR><video max-width="500" max-height="375" controls> <source src="/images/Quickbuy@Sgov-final.m4v" type="video/mp4"><source src="movie.ogg" type="video/ogg">The video cannot be viewed in your browser</video><BR><BR>QuickBuy@SGov enables public officers to make efficient and
+        seamless smaller value purchases off commercial digital  platforms
+        through use of technology.<BR><BR>To facilitate this initiative, an
+        intermediary interface ('middleware') has been developed to connect
+        Government’s corporate systems with commercial digital platforms.
+      button: Read the FAQs
+      url: /faq/
+  - infopic:
+      title: What it means to participating businesses
+      description: <p><b>Faster payment</b><BR>This initiative seeks to reduce manual
+        processing work across the procure-to-pay process (e.g. manual
+        reconciliation and manual submission of invoices), and thereby enabling
+        faster payments to our suppliers.</p><BR><p><b>SME
+        digitalisation</b><BR>This initiative provides added incentive for SME
+        vendors to bring businesses online and digitalise processes from order
+        to invoice to payment, and improve productivity.</p><BR><p><b>New
+        opportunities</b><br>Through this digitalisation, SMEs will be better
+        equipped to supply to buyers beyond Singapore’s shores in the e-commerce
+        space.</p><br><p>We welcome you to start the journey with us.</p><BR><a
+        href="/how-to-participate/" class="bp-sec-button"><div><span>How to
+        participate</span><i class="sgds-icon sgds-icon-arrow-right is-size-4"
+        aria-hidden="true"></i></div></a>
+      image: /images/quickbuy-page1-infographic.png
+      alt: What it means to participating businesses
+  - infobar:
+      title: Want to find out more?
+      button: Read the FAQs
+      url: /faq/
+---
