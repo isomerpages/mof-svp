@@ -1,9 +1,9 @@
 ---
 title: How to participate
-permalink: /how-to-participate
+permalink: /how-to-participate/
 description: How to participate in QuickBuy@SGov
 ---
-<img src="/images/QuickBuy-page2.png" alt="How to participate in QuickBuy@SGov">
+<img src="/images/quickbuy-page2.png" alt="How to participate in QuickBuy@SGov">
 
 To be part of this team, businesses will need to have a commercial digital platform which can support online transactions (i.e. allow buyers to browse listing of products and make purchases of products from the same site). In addition, businesses must be able to meet the technical interfacing requirements, for example to include a feature for buyers to add corporate billing. Finally, businesses will need to agree to the standard terms of use for the ‘middleware’.
 ## Terms of Use for API

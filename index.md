@@ -7,7 +7,7 @@ permalink: /
 sections:
   - hero:
       title: QuickBuy@SGov
-      background: /images/QuickBuy-page1-web-banner.png
+      background: /images/quickbuy-page1-web-banner.png
   - infobar:
       title: About this initiative
       description: <BR><video max-width="500" max-height="375" controls> <source src="/images/Quickbuy@Sgov-final.m4v" type="video/mp4"><source src="movie.ogg" type="video/ogg">The video cannot be viewed in your browser</video><BR><BR>QuickBuy@SGov enables public officers to make efficient and
@@ -32,7 +32,7 @@ sections:
         href="/how-to-participate/" class="bp-sec-button"><div><span>How to
         participate</span><i class="sgds-icon sgds-icon-arrow-right is-size-4"
         aria-hidden="true"></i></div></a>
-      image: /images/QuickBuy-page1-infographic.png
+      image: /images/quickbuy-page1-infographic.png
       alt: What it means to participating businesses
   - infobar:
       title: Want to find out more?

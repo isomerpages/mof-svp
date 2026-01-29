@@ -1,6 +1,6 @@
 ---
 title: FAQ
-permalink: /faq
+permalink: /faq/
 ---
 
 ### 1. Will this replace GeBIZ?
