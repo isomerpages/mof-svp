@@ -1,4 +1,5 @@
 collections:
   test-folder:
     output: true
-    order: []
+    order:
+      - fel test 1.md
